@@ -1,0 +1,201 @@
+{
+  "generated_at": "2026-03-03T03:51:52",
+  "plots_root": "C:\\Users\\SJAGABAT\\OneDrive - University of Oklahoma\\Desktop\\ionpg cochlea data\\dirty dose\\plots",
+  "html_root": "C:\\Users\\SJAGABAT\\OneDrive - University of Oklahoma\\Desktop\\ionpg cochlea data\\dirty dose\\plots\\htmls",
+  "indexes": {
+    "master": "C:\\Users\\SJAGABAT\\OneDrive - University of Oklahoma\\Desktop\\ionpg cochlea data\\dirty dose\\plots\\htmls\\MULTIVIEW__MASTER_INDEX.html",
+    "toxic_vs_nontoxic": "C:\\Users\\SJAGABAT\\OneDrive - University of Oklahoma\\Desktop\\ionpg cochlea data\\dirty dose\\plots\\htmls\\toxic_htmls\\INDEX_MULTIVIEW__TOXIC_VS_NONTOXIC.html",
+    "chemo_vs_no_chemo": "C:\\Users\\SJAGABAT\\OneDrive - University of Oklahoma\\Desktop\\ionpg cochlea data\\dirty dose\\plots\\htmls\\chemo_htmls\\INDEX_MULTIVIEW__CHEMO_VS_NO_CHEMO.html"
+  },
+  "pages": [
+    {
+      "group": "toxic_vs_nontoxic",
+      "subgroup": "all",
+      "dtype": "Clean_Dose_minus_Dirty_Dose_vs_Total_Dose",
+      "name": "MULTIVIEW__Clean_Dose_minus_Dirty_Dose_vs_Total_Dose__toxic_vs_nontoxic.html",
+      "path": "C:\\Users\\SJAGABAT\\OneDrive - University of Oklahoma\\Desktop\\ionpg cochlea data\\dirty dose\\plots\\htmls\\toxic_htmls\\MULTIVIEW__Clean_Dose_minus_Dirty_Dose_vs_Total_Dose__toxic_vs_nontoxic.html",
+      "rel": "htmls/toxic_htmls/MULTIVIEW__Clean_Dose_minus_Dirty_Dose_vs_Total_Dose__toxic_vs_nontoxic.html",
+      "url": "file:///C:/Users/SJAGABAT/OneDrive%20-%20University%20of%20Oklahoma/Desktop/ionpg%20cochlea%20data/dirty%20dose/plots/htmls/toxic_htmls/MULTIVIEW__Clean_Dose_minus_Dirty_Dose_vs_Total_Dose__toxic_vs_nontoxic.html"
+    },
+    {
+      "group": "toxic_vs_nontoxic",
+      "subgroup": "all",
+      "dtype": "Dirty_Dose_&_Clean_Dose_vs_Total_Dose",
+      "name": "MULTIVIEW__Dirty_Dose_&_Clean_Dose_vs_Total_Dose__toxic_vs_nontoxic.html",
+      "path": "C:\\Users\\SJAGABAT\\OneDrive - University of Oklahoma\\Desktop\\ionpg cochlea data\\dirty dose\\plots\\htmls\\toxic_htmls\\MULTIVIEW__Dirty_Dose_&_Clean_Dose_vs_Total_Dose__toxic_vs_nontoxic.html",
+      "rel": "htmls/toxic_htmls/MULTIVIEW__Dirty_Dose_&_Clean_Dose_vs_Total_Dose__toxic_vs_nontoxic.html",
+      "url": "file:///C:/Users/SJAGABAT/OneDrive%20-%20University%20of%20Oklahoma/Desktop/ionpg%20cochlea%20data/dirty%20dose/plots/htmls/toxic_htmls/MULTIVIEW__Dirty_Dose_&_Clean_Dose_vs_Total_Dose__toxic_vs_nontoxic.html"
+    },
+    {
+      "group": "toxic_vs_nontoxic",
+      "subgroup": "all",
+      "dtype": "Dirty_Dose_vs_Total_Dose",
+      "name": "MULTIVIEW__Dirty_Dose_vs_Total_Dose__toxic_vs_nontoxic.html",
+      "path": "C:\\Users\\SJAGABAT\\OneDrive - University of Oklahoma\\Desktop\\ionpg cochlea data\\dirty dose\\plots\\htmls\\toxic_htmls\\MULTIVIEW__Dirty_Dose_vs_Total_Dose__toxic_vs_nontoxic.html",
+      "rel": "htmls/toxic_htmls/MULTIVIEW__Dirty_Dose_vs_Total_Dose__toxic_vs_nontoxic.html",
+      "url": "file:///C:/Users/SJAGABAT/OneDrive%20-%20University%20of%20Oklahoma/Desktop/ionpg%20cochlea%20data/dirty%20dose/plots/htmls/toxic_htmls/MULTIVIEW__Dirty_Dose_vs_Total_Dose__toxic_vs_nontoxic.html"
+    },
+    {
+      "group": "toxic_vs_nontoxic",
+      "subgroup": "all",
+      "dtype": "Dirty_Fraction_vs_LETd",
+      "name": "MULTIVIEW__Dirty_Fraction_vs_LETd__toxic_vs_nontoxic.html",
+      "path": "C:\\Users\\SJAGABAT\\OneDrive - University of Oklahoma\\Desktop\\ionpg cochlea data\\dirty dose\\plots\\htmls\\toxic_htmls\\MULTIVIEW__Dirty_Fraction_vs_LETd__toxic_vs_nontoxic.html",
+      "rel": "htmls/toxic_htmls/MULTIVIEW__Dirty_Fraction_vs_LETd__toxic_vs_nontoxic.html",
+      "url": "file:///C:/Users/SJAGABAT/OneDrive%20-%20University%20of%20Oklahoma/Desktop/ionpg%20cochlea%20data/dirty%20dose/plots/htmls/toxic_htmls/MULTIVIEW__Dirty_Fraction_vs_LETd__toxic_vs_nontoxic.html"
+    },
+    {
+      "group": "toxic_vs_nontoxic",
+      "subgroup": "all",
+      "dtype": "Dirty_Fraction_vs_Total_Dose",
+      "name": "MULTIVIEW__Dirty_Fraction_vs_Total_Dose__toxic_vs_nontoxic.html",
+      "path": "C:\\Users\\SJAGABAT\\OneDrive - University of Oklahoma\\Desktop\\ionpg cochlea data\\dirty dose\\plots\\htmls\\toxic_htmls\\MULTIVIEW__Dirty_Fraction_vs_Total_Dose__toxic_vs_nontoxic.html",
+      "rel": "htmls/toxic_htmls/MULTIVIEW__Dirty_Fraction_vs_Total_Dose__toxic_vs_nontoxic.html",
+      "url": "file:///C:/Users/SJAGABAT/OneDrive%20-%20University%20of%20Oklahoma/Desktop/ionpg%20cochlea%20data/dirty%20dose/plots/htmls/toxic_htmls/MULTIVIEW__Dirty_Fraction_vs_Total_Dose__toxic_vs_nontoxic.html"
+    },
+    {
+      "group": "toxic_vs_nontoxic",
+      "subgroup": "all",
+      "dtype": "LETd_vs_Dirty_Dose",
+      "name": "MULTIVIEW__LETd_vs_Dirty_Dose__toxic_vs_nontoxic.html",
+      "path": "C:\\Users\\SJAGABAT\\OneDrive - University of Oklahoma\\Desktop\\ionpg cochlea data\\dirty dose\\plots\\htmls\\toxic_htmls\\MULTIVIEW__LETd_vs_Dirty_Dose__toxic_vs_nontoxic.html",
+      "rel": "htmls/toxic_htmls/MULTIVIEW__LETd_vs_Dirty_Dose__toxic_vs_nontoxic.html",
+      "url": "file:///C:/Users/SJAGABAT/OneDrive%20-%20University%20of%20Oklahoma/Desktop/ionpg%20cochlea%20data/dirty%20dose/plots/htmls/toxic_htmls/MULTIVIEW__LETd_vs_Dirty_Dose__toxic_vs_nontoxic.html"
+    },
+    {
+      "group": "toxic_vs_nontoxic",
+      "subgroup": "all",
+      "dtype": "LETd_vs_Total_Dose",
+      "name": "MULTIVIEW__LETd_vs_Total_Dose__toxic_vs_nontoxic.html",
+      "path": "C:\\Users\\SJAGABAT\\OneDrive - University of Oklahoma\\Desktop\\ionpg cochlea data\\dirty dose\\plots\\htmls\\toxic_htmls\\MULTIVIEW__LETd_vs_Total_Dose__toxic_vs_nontoxic.html",
+      "rel": "htmls/toxic_htmls/MULTIVIEW__LETd_vs_Total_Dose__toxic_vs_nontoxic.html",
+      "url": "file:///C:/Users/SJAGABAT/OneDrive%20-%20University%20of%20Oklahoma/Desktop/ionpg%20cochlea%20data/dirty%20dose/plots/htmls/toxic_htmls/MULTIVIEW__LETd_vs_Total_Dose__toxic_vs_nontoxic.html"
+    },
+    {
+      "group": "chemo_vs_no_chemo",
+      "subgroup": "toxic",
+      "dtype": "Clean_Dose_minus_Dirty_Dose_vs_Total_Dose",
+      "name": "MULTIVIEW__TOXIC__Clean_Dose_minus_Dirty_Dose_vs_Total_Dose__chemo_vs_no_chemo.html",
+      "path": "C:\\Users\\SJAGABAT\\OneDrive - University of Oklahoma\\Desktop\\ionpg cochlea data\\dirty dose\\plots\\htmls\\chemo_htmls\\toxic\\MULTIVIEW__TOXIC__Clean_Dose_minus_Dirty_Dose_vs_Total_Dose__chemo_vs_no_chemo.html",
+      "rel": "htmls/chemo_htmls/toxic/MULTIVIEW__TOXIC__Clean_Dose_minus_Dirty_Dose_vs_Total_Dose__chemo_vs_no_chemo.html",
+      "url": "file:///C:/Users/SJAGABAT/OneDrive%20-%20University%20of%20Oklahoma/Desktop/ionpg%20cochlea%20data/dirty%20dose/plots/htmls/chemo_htmls/toxic/MULTIVIEW__TOXIC__Clean_Dose_minus_Dirty_Dose_vs_Total_Dose__chemo_vs_no_chemo.html"
+    },
+    {
+      "group": "chemo_vs_no_chemo",
+      "subgroup": "toxic",
+      "dtype": "Dirty_Dose_&_Clean_Dose_vs_Total_Dose",
+      "name": "MULTIVIEW__TOXIC__Dirty_Dose_&_Clean_Dose_vs_Total_Dose__chemo_vs_no_chemo.html",
+      "path": "C:\\Users\\SJAGABAT\\OneDrive - University of Oklahoma\\Desktop\\ionpg cochlea data\\dirty dose\\plots\\htmls\\chemo_htmls\\toxic\\MULTIVIEW__TOXIC__Dirty_Dose_&_Clean_Dose_vs_Total_Dose__chemo_vs_no_chemo.html",
+      "rel": "htmls/chemo_htmls/toxic/MULTIVIEW__TOXIC__Dirty_Dose_&_Clean_Dose_vs_Total_Dose__chemo_vs_no_chemo.html",
+      "url": "file:///C:/Users/SJAGABAT/OneDrive%20-%20University%20of%20Oklahoma/Desktop/ionpg%20cochlea%20data/dirty%20dose/plots/htmls/chemo_htmls/toxic/MULTIVIEW__TOXIC__Dirty_Dose_&_Clean_Dose_vs_Total_Dose__chemo_vs_no_chemo.html"
+    },
+    {
+      "group": "chemo_vs_no_chemo",
+      "subgroup": "toxic",
+      "dtype": "Dirty_Dose_vs_Total_Dose",
+      "name": "MULTIVIEW__TOXIC__Dirty_Dose_vs_Total_Dose__chemo_vs_no_chemo.html",
+      "path": "C:\\Users\\SJAGABAT\\OneDrive - University of Oklahoma\\Desktop\\ionpg cochlea data\\dirty dose\\plots\\htmls\\chemo_htmls\\toxic\\MULTIVIEW__TOXIC__Dirty_Dose_vs_Total_Dose__chemo_vs_no_chemo.html",
+      "rel": "htmls/chemo_htmls/toxic/MULTIVIEW__TOXIC__Dirty_Dose_vs_Total_Dose__chemo_vs_no_chemo.html",
+      "url": "file:///C:/Users/SJAGABAT/OneDrive%20-%20University%20of%20Oklahoma/Desktop/ionpg%20cochlea%20data/dirty%20dose/plots/htmls/chemo_htmls/toxic/MULTIVIEW__TOXIC__Dirty_Dose_vs_Total_Dose__chemo_vs_no_chemo.html"
+    },
+    {
+      "group": "chemo_vs_no_chemo",
+      "subgroup": "toxic",
+      "dtype": "Dirty_Fraction_vs_LETd",
+      "name": "MULTIVIEW__TOXIC__Dirty_Fraction_vs_LETd__chemo_vs_no_chemo.html",
+      "path": "C:\\Users\\SJAGABAT\\OneDrive - University of Oklahoma\\Desktop\\ionpg cochlea data\\dirty dose\\plots\\htmls\\chemo_htmls\\toxic\\MULTIVIEW__TOXIC__Dirty_Fraction_vs_LETd__chemo_vs_no_chemo.html",
+      "rel": "htmls/chemo_htmls/toxic/MULTIVIEW__TOXIC__Dirty_Fraction_vs_LETd__chemo_vs_no_chemo.html",
+      "url": "file:///C:/Users/SJAGABAT/OneDrive%20-%20University%20of%20Oklahoma/Desktop/ionpg%20cochlea%20data/dirty%20dose/plots/htmls/chemo_htmls/toxic/MULTIVIEW__TOXIC__Dirty_Fraction_vs_LETd__chemo_vs_no_chemo.html"
+    },
+    {
+      "group": "chemo_vs_no_chemo",
+      "subgroup": "toxic",
+      "dtype": "Dirty_Fraction_vs_Total_Dose",
+      "name": "MULTIVIEW__TOXIC__Dirty_Fraction_vs_Total_Dose__chemo_vs_no_chemo.html",
+      "path": "C:\\Users\\SJAGABAT\\OneDrive - University of Oklahoma\\Desktop\\ionpg cochlea data\\dirty dose\\plots\\htmls\\chemo_htmls\\toxic\\MULTIVIEW__TOXIC__Dirty_Fraction_vs_Total_Dose__chemo_vs_no_chemo.html",
+      "rel": "htmls/chemo_htmls/toxic/MULTIVIEW__TOXIC__Dirty_Fraction_vs_Total_Dose__chemo_vs_no_chemo.html",
+      "url": "file:///C:/Users/SJAGABAT/OneDrive%20-%20University%20of%20Oklahoma/Desktop/ionpg%20cochlea%20data/dirty%20dose/plots/htmls/chemo_htmls/toxic/MULTIVIEW__TOXIC__Dirty_Fraction_vs_Total_Dose__chemo_vs_no_chemo.html"
+    },
+    {
+      "group": "chemo_vs_no_chemo",
+      "subgroup": "toxic",
+      "dtype": "LETd_vs_Dirty_Dose",
+      "name": "MULTIVIEW__TOXIC__LETd_vs_Dirty_Dose__chemo_vs_no_chemo.html",
+      "path": "C:\\Users\\SJAGABAT\\OneDrive - University of Oklahoma\\Desktop\\ionpg cochlea data\\dirty dose\\plots\\htmls\\chemo_htmls\\toxic\\MULTIVIEW__TOXIC__LETd_vs_Dirty_Dose__chemo_vs_no_chemo.html",
+      "rel": "htmls/chemo_htmls/toxic/MULTIVIEW__TOXIC__LETd_vs_Dirty_Dose__chemo_vs_no_chemo.html",
+      "url": "file:///C:/Users/SJAGABAT/OneDrive%20-%20University%20of%20Oklahoma/Desktop/ionpg%20cochlea%20data/dirty%20dose/plots/htmls/chemo_htmls/toxic/MULTIVIEW__TOXIC__LETd_vs_Dirty_Dose__chemo_vs_no_chemo.html"
+    },
+    {
+      "group": "chemo_vs_no_chemo",
+      "subgroup": "toxic",
+      "dtype": "LETd_vs_Total_Dose",
+      "name": "MULTIVIEW__TOXIC__LETd_vs_Total_Dose__chemo_vs_no_chemo.html",
+      "path": "C:\\Users\\SJAGABAT\\OneDrive - University of Oklahoma\\Desktop\\ionpg cochlea data\\dirty dose\\plots\\htmls\\chemo_htmls\\toxic\\MULTIVIEW__TOXIC__LETd_vs_Total_Dose__chemo_vs_no_chemo.html",
+      "rel": "htmls/chemo_htmls/toxic/MULTIVIEW__TOXIC__LETd_vs_Total_Dose__chemo_vs_no_chemo.html",
+      "url": "file:///C:/Users/SJAGABAT/OneDrive%20-%20University%20of%20Oklahoma/Desktop/ionpg%20cochlea%20data/dirty%20dose/plots/htmls/chemo_htmls/toxic/MULTIVIEW__TOXIC__LETd_vs_Total_Dose__chemo_vs_no_chemo.html"
+    },
+    {
+      "group": "chemo_vs_no_chemo",
+      "subgroup": "nontoxic",
+      "dtype": "Clean_Dose_minus_Dirty_Dose_vs_Total_Dose",
+      "name": "MULTIVIEW__NONTOXIC__Clean_Dose_minus_Dirty_Dose_vs_Total_Dose__chemo_vs_no_chemo.html",
+      "path": "C:\\Users\\SJAGABAT\\OneDrive - University of Oklahoma\\Desktop\\ionpg cochlea data\\dirty dose\\plots\\htmls\\chemo_htmls\\nontoxic\\MULTIVIEW__NONTOXIC__Clean_Dose_minus_Dirty_Dose_vs_Total_Dose__chemo_vs_no_chemo.html",
+      "rel": "htmls/chemo_htmls/nontoxic/MULTIVIEW__NONTOXIC__Clean_Dose_minus_Dirty_Dose_vs_Total_Dose__chemo_vs_no_chemo.html",
+      "url": "file:///C:/Users/SJAGABAT/OneDrive%20-%20University%20of%20Oklahoma/Desktop/ionpg%20cochlea%20data/dirty%20dose/plots/htmls/chemo_htmls/nontoxic/MULTIVIEW__NONTOXIC__Clean_Dose_minus_Dirty_Dose_vs_Total_Dose__chemo_vs_no_chemo.html"
+    },
+    {
+      "group": "chemo_vs_no_chemo",
+      "subgroup": "nontoxic",
+      "dtype": "Dirty_Dose_&_Clean_Dose_vs_Total_Dose",
+      "name": "MULTIVIEW__NONTOXIC__Dirty_Dose_&_Clean_Dose_vs_Total_Dose__chemo_vs_no_chemo.html",
+      "path": "C:\\Users\\SJAGABAT\\OneDrive - University of Oklahoma\\Desktop\\ionpg cochlea data\\dirty dose\\plots\\htmls\\chemo_htmls\\nontoxic\\MULTIVIEW__NONTOXIC__Dirty_Dose_&_Clean_Dose_vs_Total_Dose__chemo_vs_no_chemo.html",
+      "rel": "htmls/chemo_htmls/nontoxic/MULTIVIEW__NONTOXIC__Dirty_Dose_&_Clean_Dose_vs_Total_Dose__chemo_vs_no_chemo.html",
+      "url": "file:///C:/Users/SJAGABAT/OneDrive%20-%20University%20of%20Oklahoma/Desktop/ionpg%20cochlea%20data/dirty%20dose/plots/htmls/chemo_htmls/nontoxic/MULTIVIEW__NONTOXIC__Dirty_Dose_&_Clean_Dose_vs_Total_Dose__chemo_vs_no_chemo.html"
+    },
+    {
+      "group": "chemo_vs_no_chemo",
+      "subgroup": "nontoxic",
+      "dtype": "Dirty_Dose_vs_Total_Dose",
+      "name": "MULTIVIEW__NONTOXIC__Dirty_Dose_vs_Total_Dose__chemo_vs_no_chemo.html",
+      "path": "C:\\Users\\SJAGABAT\\OneDrive - University of Oklahoma\\Desktop\\ionpg cochlea data\\dirty dose\\plots\\htmls\\chemo_htmls\\nontoxic\\MULTIVIEW__NONTOXIC__Dirty_Dose_vs_Total_Dose__chemo_vs_no_chemo.html",
+      "rel": "htmls/chemo_htmls/nontoxic/MULTIVIEW__NONTOXIC__Dirty_Dose_vs_Total_Dose__chemo_vs_no_chemo.html",
+      "url": "file:///C:/Users/SJAGABAT/OneDrive%20-%20University%20of%20Oklahoma/Desktop/ionpg%20cochlea%20data/dirty%20dose/plots/htmls/chemo_htmls/nontoxic/MULTIVIEW__NONTOXIC__Dirty_Dose_vs_Total_Dose__chemo_vs_no_chemo.html"
+    },
+    {
+      "group": "chemo_vs_no_chemo",
+      "subgroup": "nontoxic",
+      "dtype": "Dirty_Fraction_vs_LETd",
+      "name": "MULTIVIEW__NONTOXIC__Dirty_Fraction_vs_LETd__chemo_vs_no_chemo.html",
+      "path": "C:\\Users\\SJAGABAT\\OneDrive - University of Oklahoma\\Desktop\\ionpg cochlea data\\dirty dose\\plots\\htmls\\chemo_htmls\\nontoxic\\MULTIVIEW__NONTOXIC__Dirty_Fraction_vs_LETd__chemo_vs_no_chemo.html",
+      "rel": "htmls/chemo_htmls/nontoxic/MULTIVIEW__NONTOXIC__Dirty_Fraction_vs_LETd__chemo_vs_no_chemo.html",
+      "url": "file:///C:/Users/SJAGABAT/OneDrive%20-%20University%20of%20Oklahoma/Desktop/ionpg%20cochlea%20data/dirty%20dose/plots/htmls/chemo_htmls/nontoxic/MULTIVIEW__NONTOXIC__Dirty_Fraction_vs_LETd__chemo_vs_no_chemo.html"
+    },
+    {
+      "group": "chemo_vs_no_chemo",
+      "subgroup": "nontoxic",
+      "dtype": "Dirty_Fraction_vs_Total_Dose",
+      "name": "MULTIVIEW__NONTOXIC__Dirty_Fraction_vs_Total_Dose__chemo_vs_no_chemo.html",
+      "path": "C:\\Users\\SJAGABAT\\OneDrive - University of Oklahoma\\Desktop\\ionpg cochlea data\\dirty dose\\plots\\htmls\\chemo_htmls\\nontoxic\\MULTIVIEW__NONTOXIC__Dirty_Fraction_vs_Total_Dose__chemo_vs_no_chemo.html",
+      "rel": "htmls/chemo_htmls/nontoxic/MULTIVIEW__NONTOXIC__Dirty_Fraction_vs_Total_Dose__chemo_vs_no_chemo.html",
+      "url": "file:///C:/Users/SJAGABAT/OneDrive%20-%20University%20of%20Oklahoma/Desktop/ionpg%20cochlea%20data/dirty%20dose/plots/htmls/chemo_htmls/nontoxic/MULTIVIEW__NONTOXIC__Dirty_Fraction_vs_Total_Dose__chemo_vs_no_chemo.html"
+    },
+    {
+      "group": "chemo_vs_no_chemo",
+      "subgroup": "nontoxic",
+      "dtype": "LETd_vs_Dirty_Dose",
+      "name": "MULTIVIEW__NONTOXIC__LETd_vs_Dirty_Dose__chemo_vs_no_chemo.html",
+      "path": "C:\\Users\\SJAGABAT\\OneDrive - University of Oklahoma\\Desktop\\ionpg cochlea data\\dirty dose\\plots\\htmls\\chemo_htmls\\nontoxic\\MULTIVIEW__NONTOXIC__LETd_vs_Dirty_Dose__chemo_vs_no_chemo.html",
+      "rel": "htmls/chemo_htmls/nontoxic/MULTIVIEW__NONTOXIC__LETd_vs_Dirty_Dose__chemo_vs_no_chemo.html",
+      "url": "file:///C:/Users/SJAGABAT/OneDrive%20-%20University%20of%20Oklahoma/Desktop/ionpg%20cochlea%20data/dirty%20dose/plots/htmls/chemo_htmls/nontoxic/MULTIVIEW__NONTOXIC__LETd_vs_Dirty_Dose__chemo_vs_no_chemo.html"
+    },
+    {
+      "group": "chemo_vs_no_chemo",
+      "subgroup": "nontoxic",
+      "dtype": "LETd_vs_Total_Dose",
+      "name": "MULTIVIEW__NONTOXIC__LETd_vs_Total_Dose__chemo_vs_no_chemo.html",
+      "path": "C:\\Users\\SJAGABAT\\OneDrive - University of Oklahoma\\Desktop\\ionpg cochlea data\\dirty dose\\plots\\htmls\\chemo_htmls\\nontoxic\\MULTIVIEW__NONTOXIC__LETd_vs_Total_Dose__chemo_vs_no_chemo.html",
+      "rel": "htmls/chemo_htmls/nontoxic/MULTIVIEW__NONTOXIC__LETd_vs_Total_Dose__chemo_vs_no_chemo.html",
+      "url": "file:///C:/Users/SJAGABAT/OneDrive%20-%20University%20of%20Oklahoma/Desktop/ionpg%20cochlea%20data/dirty%20dose/plots/htmls/chemo_htmls/nontoxic/MULTIVIEW__NONTOXIC__LETd_vs_Total_Dose__chemo_vs_no_chemo.html"
+    }
+  ]
+}
