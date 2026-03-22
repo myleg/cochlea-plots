@@ -98,7 +98,7 @@ def write_indexes(data: dict):
     MASTER_INDEX.write_text(
         f"""<!doctype html><html><head><meta charset='utf-8'><meta name='viewport' content='width=device-width,initial-scale=1'>
 <title>Multiview Master Index</title><style>{css}</style></head><body>
-<div class='card'><h1>Multiview Master Index</h1><div class='small'>Manifest: {html.escape(str(MANIFEST))}</div></div>
+<div class='card'><h1>Multiview Master Index</h1></div>
 <div class='card'><h2>Toxic vs Nontoxic</h2><ul>{li(tvn)}</ul></div>
 <div class='card'><h2>Chemo vs No Chemo</h2><div class='grid2'><div><h3>Toxic</h3><ul>{li(chemo_t)}</ul></div><div><h3>Nontoxic</h3><ul>{li(chemo_n)}</ul></div></div></div>
 </body></html>""",
