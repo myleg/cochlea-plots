@@ -1,6 +1,0 @@
-How to keep it stable after future moves
-Run from this folder (same folder as this note):
-
-python .\refresh_multiview_manifest.py
-
-The script auto-detects the plots root from its own location.
