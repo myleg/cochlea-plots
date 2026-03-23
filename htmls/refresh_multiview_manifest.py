@@ -1,12 +1,13 @@
-﻿import json
+import json
 import re
 from datetime import datetime
 from pathlib import Path
 from urllib.parse import quote, unquote
 import html
 
-PLOTS_ROOT = Path(r"C:\Users\SJAGABAT\OneDrive - University of Oklahoma\Desktop\ionpg cochlea data\dirty dose\plots").resolve()
-HTML_ROOT = PLOTS_ROOT / "htmls"
+SCRIPT_DIR = Path(__file__).resolve().parent
+HTML_ROOT = SCRIPT_DIR
+PLOTS_ROOT = HTML_ROOT.parent
 MANIFEST = HTML_ROOT / "manifest.json"
 MASTER_INDEX = HTML_ROOT / "MULTIVIEW__MASTER_INDEX.html"
 TVN_INDEX = HTML_ROOT / "toxic_htmls" / "INDEX_MULTIVIEW__TOXIC_VS_NONTOXIC.html"
